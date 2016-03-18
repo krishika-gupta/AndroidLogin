@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidLogin</string>
+    <string name="facebook_app_key">1721294431482602</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="create">Create an account</string>
+    <string name="next">Next Page</string>
+    <string name="or">Or</string>
+    <string name="Facebook">Log in with Facebook</string>
+    <string name="log_out">Log Out</string>
+</resources>
